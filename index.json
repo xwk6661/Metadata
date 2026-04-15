@@ -1,0 +1,70 @@
+{
+    "formatVersion": 1,
+    "packages": [
+        {
+            "name": "Java Runtimes",
+            "sha256": "e7a259955f3692a801214831b35d878ddfc2c545dcb861953336e3d997b416da",
+            "uid": "https://bmclapi2.bangbang93.com/maven/java"
+        },
+        {
+            "name": "Java Runtimes",
+            "sha256": "34bedbadf99d6c416683a039ac87d2e85807989ce92514315428789cb3af9052",
+            "uid": "https://bmclapi2.bangbang93.com/maven/java"
+        },
+        {
+            "name": "LiteLoader",
+            "sha256": "21ed39d05d19449287bb3dbc19fd395d4fa12aefb3f0fe1846e008f28e6e4d95",
+            "uid": "https://bmclapi2.bangbang93.com/maven"
+        },
+        {
+            "name": "Java Runtimes",
+            "sha256": "038a7f276c6211c4642105e9cf5e9e60c6fd3d1d0e3bd8e503f6a9c91746868b",
+            "uid": "https://bmclapi2.bangbang93.com/maven/java"
+        },
+        {
+            "name": "Fabric Loader",
+            "sha256": "cd11e774921180f4a5f129d5c8d479d01a921ab789b02b2a369e5d028d37c9c8",
+            "uid": "https://bmclapi2.bangbang93.com/fabric-meta"
+        },
+        {
+            "name": "Intermediary Mappings",
+            "sha256": "d87597cb0abfd9506fb49f106516289630f373ff86f08ff41ef2edab50a3ea2f",
+            "uid": "https://bmclapi2.bangbang93.com/maven"
+        },
+        {
+            "name": "Minecraft",
+            "sha256": "0af3516d99dc56af8158f963a57ed727d0f1c45a8e929ff1abc664a960f3971c",
+            "uid": "https://bmclapi2.bangbang93.com/assets"
+        },
+        {
+            "name": "Java Runtimes",
+            "sha256": "5f2b011b30ce1e6e1a7f88ec264dc00d52dae8586154e60855fcb9978ebc123d",
+            "uid": "https://bmclapi2.bangbang93.com/maven/java"
+        },
+        {
+            "name": "Forge",
+            "sha256": "31d8f5464983e9804c42038d7ee32789091e0c1505ab7244154ccd7e7ea5d730",
+            "uid": "https://bmclapi2.bangbang93.com/maven"
+        },
+        {
+            "name": "NeoForge",
+            "sha256": "00668d1a74a2e900a7b1e09bbb737a776fa1b25c142af89395e82308ca13a6b5",
+            "uid": "https://bmclapi2.bangbang93.com/maven/net/neoforged"
+        },
+        {
+            "name": "LWJGL 2",
+            "sha256": "3db51500ebe6d0976ccc8618ad9ff76b475d4ad945440c68d0fc41e05508972b",
+            "uid": "https://bmclapi2.bangbang93.com/maven/lwjgl"
+        },
+        {
+            "name": "LWJGL 3",
+            "sha256": "4582b760c62aa6a5ffb8a9d76b3c8b277e47ff83262dad6080c626b53e0c6743",
+            "uid": "https://bmclapi2.bangbang93.com/maven/lwjgl3"
+        },
+        {
+            "name": "Quilt Loader",
+            "sha256": "29bb5ba4aa3b381a0f59481496fb90d16ab8244eb054e16d7de8012e7fff3963",
+            "uid": "https://bmclapi2.bangbang93.com/quilt-meta"
+        }
+    ]
+}
